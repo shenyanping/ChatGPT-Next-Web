@@ -118,7 +118,7 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          八戒学AI
+          八戒学AI1
         </div>
         <div className={styles["sidebar-sub-title"]}>
           关注抖音bjxueai,加入粉丝群获取密码
